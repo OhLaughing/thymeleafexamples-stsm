@@ -1,4 +1,8 @@
 
+### 学习
+- SpringWebApplicationInitializer是springmvc的配置类，相当于web.xml
+
+
 Thymeleaf Examples: Spring Thyme Seedstarter Manager
 ----------------------------------------------------
  
